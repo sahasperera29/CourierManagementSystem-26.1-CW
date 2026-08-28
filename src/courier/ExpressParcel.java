@@ -38,16 +38,5 @@ public class ExpressParcel extends Parcel{
        //save the surchage to the text file.
    }  
 }
-*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package courier;
 
-/**
- *
- * @author sathinthasilva
- */
-public class ExpressParcel {
-    
-}
+
