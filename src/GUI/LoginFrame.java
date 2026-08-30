@@ -11,6 +11,7 @@ public class LoginFrame extends javax.swing.JFrame {
         initComponents();
         // Centers the window on the screen
         setLocationRelativeTo(null);
+       setSize(400, 300);
     }
 
     
