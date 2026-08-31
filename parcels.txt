@@ -1,1 +1,4 @@
 Standard,b1,cat1,tom,3.0,Pending,0.0
+Express,b2,luffy,denole,5.0,Pending,200.0
+Standard,b3,dave,doom,10.0,Pending,0.0
+Express,b4,sanuk,vinuk,6.0,Pending,300.0
